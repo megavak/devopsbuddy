@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: megavak
+Build-Jdk: 9.0.1
+Implementation-Title: devsbuddyops
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/devsbuddyops/
+Created-By: Maven Integration for Eclipse
+
